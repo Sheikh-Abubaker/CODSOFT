@@ -1,2 +1,2 @@
 # CODSOFT
-Java Development Internship repo
+Java Development
